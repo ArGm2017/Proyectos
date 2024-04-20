@@ -1,0 +1,9 @@
+{
+    "001": {
+        "id": "001",
+        "nombre": "Alice",
+        "email": "alice@example.com",
+        "celular": "(35)987654321",
+        "tel": "(35)34567890"
+    }
+}
